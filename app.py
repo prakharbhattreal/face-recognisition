@@ -4,7 +4,7 @@ from tensorflow.keras.models import load_model
 from PIL import Image
 
 # load model
-model = load_model("model/model_1.keras")
+model = load_model("model_1.keras")
 
 # class names (IMPORTANT: match training order)
 class_names = [
