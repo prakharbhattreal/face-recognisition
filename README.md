@@ -48,8 +48,8 @@ In this project, we use a pre-trained deep learning model (**MobileNetV2**) and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pbhttai/face-recognition-using-CNN.git
-cd face-recognition-using-CNN
+git clone https://github.com/prakharbhattreal/face-recognisition.git
+cd face-recognisition
 ```
 
 2. Install dependencies:
