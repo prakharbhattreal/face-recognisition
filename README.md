@@ -27,11 +27,10 @@ In this project, we use a pre-trained deep learning model (**MobileNetV2**) and 
 ## 🧑‍💻 Technologies Used
 
 - Python  
-- TensorFlow / Keras  
-- OpenCV  
+- TensorFlow / Keras
 - NumPy  
-- Matplotlib  
-
+- Matplotlib
+- 
 ---
 
 ## 📊 Model Details
