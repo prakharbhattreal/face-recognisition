@@ -56,11 +56,6 @@ cd face-recognisition
 pip install -r requirements.txt
 ```
 
-3. Open CV implementation also added
-```bash
-python openCV_implementaion.py
-```
-
 ## 📜 License
 
 This project is open-source and available under the MIT License.
